@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Samuel
+#### Full-Stack Developer
 
-<!--
-**samuririch/samuririch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer who likes to work on side-projects in my spare time. Learning new things has always been a hobby of mine, and nobody should ever get comfortable with their current level of knowledge on any subject.  I don't believe developers should ever stop learning and building things.
 
-Here are some ideas to get you started:
+If you're not striving to get ahead, you are falling behind. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C#/Angular/HTML/CSS/JS/jQuery/SQL
+
+
+
+
+
+
